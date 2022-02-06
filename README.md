@@ -26,7 +26,7 @@ Always a student of technology and forever fascinated by how fast or rapid chang
 - [VisualVM](https://visualvm.github.io/) , APM
 - Elastic Search
 - IntelliJ, Visual Studio Code
-- Docker, Minikube / Docker Kubernetest, Openshift
+- Docker, Minikube / Docker Kubernetes, Openshift
 - Confluence, Notion
 
 #### Used briefly for POCs:
