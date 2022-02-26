@@ -17,7 +17,7 @@ Always a student of technology and forever fascinated by how fast or rapid chang
 
 #### Recent (_past 3yrs to now_):
 - SOLID Principle
-- Design Pattern `//todo: create a repo showcasing this`
+- Design Pattern
 - Java 8, 9, 11
 - Gradle, Maven
 - MSSQL, Oracle
